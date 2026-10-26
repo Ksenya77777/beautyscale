@@ -19,7 +19,7 @@
 
 | # | Задача | Кто | Что делается |
 |---|---|---|---|
-| 5 | SEO-аудит beautyscale.by | Claude (по просьбе Ksenya) | Первый проход сделан: `reports/2026-10-15_seo-audit.md`. Осталось: Вебмастер и Search Console, Lighthouse, внутренние страницы |
+| 5 | SEO-аудит beautyscale.by | Claude (по просьбе Ksenya) | Второй проход сделан: `reports/2026-10-26_seo-audit-tilda.md` (данные из Tilda, 18 пунктов), первый: `reports/2026-10-15_seo-audit.md`. Осталось: Вебмастер и Search Console (нужен доступ клиента), Lighthouse |
 
 ## Дальше
 
