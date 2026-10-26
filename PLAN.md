@@ -19,7 +19,7 @@
 
 | # | Задача | Кто | Что делается |
 |---|---|---|---|
-| 5 | SEO-аудит beautyscale.by | Claude (по просьбе Ksenya) | Второй проход сделан: `reports/2026-10-26_seo-audit-tilda.md` (данные из Tilda, 18 пунктов), первый: `reports/2026-10-15_seo-audit.md`. Осталось: Вебмастер и Search Console (нужен доступ клиента), Lighthouse |
+| 5 | SEO-аудит beautyscale.by | Claude (по просьбе Ksenya) | Второй проход сделан: `reports/2026-10-26_seo-audit-tilda.md` (данные из Tilda, 18 пунктов), первый: `reports/2026-10-15_seo-audit.md`. 26.10.2026 в Tilda сохранены (не опубликованы) meta_title, fb_title, fb_descr главной; осталось опубликовать страницу `main`. Осталось: Вебмастер и Search Console (нужен доступ клиента), Lighthouse |
 
 ## Дальше
 
